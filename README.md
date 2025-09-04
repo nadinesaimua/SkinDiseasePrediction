@@ -59,7 +59,7 @@ Pandas & NumPy: For data processing.
 Matplotlib & Seaborn: For visualization and analysis.
 ## Results
 
-Accuracy: Achieved a 70% classification accuracy across five skin disease types.
+Accuracy: Achieved a 91% classification accuracy across five skin disease types.
 
 Evaluation: Model performance was assessed using metrics such as accuracy and a confusion matrix.
 
